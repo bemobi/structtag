@@ -3,7 +3,7 @@ package structtag_test
 import (
 	"testing"
 
-	"github.com/facebookgo/structtag"
+	"github.com/bemobi/structtag"
 )
 
 func TestExtract(t *testing.T) {
